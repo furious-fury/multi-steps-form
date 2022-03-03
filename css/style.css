@@ -108,6 +108,7 @@ select{
     margin: .2rem 0;
     border:1px solid #ffffff;
     outline: 1px solid #ffffff;
+    color: #000;
     border-radius: 7px;
     background-color: #ececec;
     transition: border .1s ease-in;
