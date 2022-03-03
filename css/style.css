@@ -93,7 +93,8 @@ form{
 
 }
 .form-items{
-    margin: 2rem;
+    margin: 1.5rem;
+    background-color: #7f07b6;
 }
 
 label{
@@ -161,7 +162,7 @@ select:active{
     }
     label{
         font-size: 1rem;
-    }
+    } 
     .form-header h4{
         font-size: 1rem;
     }
