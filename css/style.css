@@ -160,9 +160,9 @@ select:active{
         padding: 0px;
     }
     label{
-        font-size: 1.3rem;
-      }
-      .form-header h4{
+        font-size: 1rem;
+    }
+    .form-header h4{
         font-size: 1rem;
     }
     .form-header span{
