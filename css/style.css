@@ -146,9 +146,6 @@ select:active{
       .form-container{
         width: 80%;
       }
-      /* .btn-container{
-        display: flex;
-    } */
     .btn{
         padding: 0.7rem 2rem;
         font-size: 1rem;
@@ -186,6 +183,11 @@ select:active{
 @media (max-width: 42.8rem) and (min-width: 41rem)  {
     .form-container{
         width: 80%;
+    }
+    .btn{
+        padding: 0.7rem 2rem;
+        font-size: 1rem;
+        font-weight: bold;
     }
 
 
