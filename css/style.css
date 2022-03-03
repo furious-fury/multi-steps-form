@@ -157,6 +157,7 @@ select:active{
 
 
     form{
+        margin-top: 1rem;
         padding: 0px;
     }
     label{
@@ -188,6 +189,7 @@ select:active{
 
 
     form{
+        margin-top: 1rem;
         padding: 0px;
     }
     label{
