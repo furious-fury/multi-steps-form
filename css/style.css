@@ -41,7 +41,7 @@ body{
     padding: 1rem 5rem;
     background-color: #7f07b6;
     color: #ececec;
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: bold;
     display: inline-block;
     border: none;
@@ -145,7 +145,6 @@ select:active{
       }
       .btn-container{
         display: flex;
-        /* margin: 1rem auto; */
     }
     .btn{
         padding: 0.5rem 2rem;
