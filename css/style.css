@@ -82,7 +82,7 @@ body{
     font-weight: bold;
 }
 .form-header .logo img{
-    width: 8rem;
+    width: 6rem;
 }
 form{
     margin: auto;
@@ -163,16 +163,16 @@ select:active{
         font-size: 1.3rem;
       }
       .form-header h4{
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
     .form-header span{
-        font-size: 1.3rem;
+        font-size: .8rem;
     }
     .form-header p{
-        font-size: 1.2rem;
+        font-size: .7rem;
     }
     .form-header .logo img{
-        width: 5rem;
+        width: 4rem;
     }
     select{
         width: 100%;
