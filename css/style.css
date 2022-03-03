@@ -150,7 +150,7 @@ select:active{
         display: flex;
     } */
     .btn{
-        padding: 0.5rem 2rem;
+        padding: 0.7rem 2rem;
         font-size: 1rem;
         font-weight: bold;
     }
