@@ -38,7 +38,8 @@ body{
     justify-content: space-evenly;
 }
 .btn{
-    padding: 1rem 5rem;
+    width: 10rem;
+    padding: 1rem 3rem;
     background-color: #7f07b6;
     color: #ececec;
     font-size: 1.5rem;
@@ -47,6 +48,7 @@ body{
     border: none;
     border-radius: .5rem;
     cursor: pointer;
+    text-align: center;
 }
 .form-container{
     display: block;
