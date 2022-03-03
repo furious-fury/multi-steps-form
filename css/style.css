@@ -108,7 +108,7 @@ select{
     border-radius: 7px;
     background-color: #ececec;
     transition: border .1s ease-in;
-    -webkit-appearance: none;
+    -webkit-appearance: menulist;
 }
 select:hover,
 select:active{
