@@ -140,7 +140,7 @@ select:active{
 
 
 
-  @media (max-width: 38rem) {
+  /* @media (max-width: 38rem) {
       .form-container{
         width: 80%;
       }
@@ -178,7 +178,7 @@ select:active{
         width: 100%;
         padding: .5rem 1rem;
     }
-   }
+   } */
 
 @media (max-width: 42.8rem) and (min-width: 35rem)  {
     .form-container{
