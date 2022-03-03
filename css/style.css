@@ -102,8 +102,8 @@ label{
 }
 select{
     width: 100%;
-    padding: 1rem;
-    margin: .3rem 0;
+    padding: .7rem 1rem;
+    margin: .2rem 0;
     border:1px solid #ffffff;
     outline: 1px solid #ffffff;
     border-radius: 7px;
