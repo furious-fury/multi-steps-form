@@ -176,12 +176,5 @@ select:active{
     }
     select{
         width: 100%;
-        padding: 5rem;
     }
-   }
-
-   @media (max-width: 29.5rem) {
-       .form-container{
-           background-color: #7f07b6;
-       }
    }
