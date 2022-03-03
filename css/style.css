@@ -38,7 +38,6 @@ body{
     justify-content: space-evenly;
 }
 .btn{
-    width: 10rem;
     padding: 1rem 3rem;
     background-color: #7f07b6;
     color: #ececec;
@@ -148,24 +147,13 @@ select:active{
         width: 80%;
       }
       .btn-container{
-        /* display: flex;
-        width: 100%;
-        margin: 2rem auto;
-        justify-content: space-evenly; */
-        background-color: aqua;
+        display: flex;
+        /* margin: 1rem auto; */
     }
     .btn{
-        width: 10rem;
-        padding: 1rem 3rem;
-        background-color: #7f07b6;
-        color: #ececec;
+        padding: 0.5rem 2rem;
         font-size: 1.5rem;
         font-weight: bold;
-        display: inline-block;
-        border: none;
-        border-radius: .5rem;
-        cursor: pointer;
-        text-align: center;
     }
 
 
