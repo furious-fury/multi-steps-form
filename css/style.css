@@ -185,4 +185,28 @@ select:active{
         background-color: #7f07b6;
         width: 80%;
     }
+
+
+    form{
+        padding: 0px;
+    }
+    label{
+        font-size: 1rem;
+    } 
+    .form-header h4{
+        font-size: 1rem;
+    }
+    .form-header span{
+        font-size: .8rem;
+    }
+    .form-header p{
+        font-size: .7rem;
+    }
+    .form-header .logo img{
+        width: 4rem;
+    }
+    select{
+        width: 100%;
+        padding: .5rem 1rem;
+    }
 }
